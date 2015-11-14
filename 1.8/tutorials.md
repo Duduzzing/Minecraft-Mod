@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=pQQrYUtZKng
 ###[1.8] Adding new Mob (ENG)
 https://www.youtube.com/watch?v=aWDZXtJfOeU
 
-####[1.7.10] Add Humanoid Mob
+###[1.7.10] Add Humanoid Mob
 https://www.youtube.com/watch?v=96Riwug_UnY
 
 ###[1.7] Tutorials (+adding mobs & attributes)
