@@ -7,6 +7,8 @@ import net.minecraft.util.MathHelper;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 
+//http://imgur.com/YIwUeDO
+
 @SideOnly(Side.CLIENT)
 public class ModelDino extends ModelBase
 {
